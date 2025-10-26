@@ -199,7 +199,7 @@ Formule : `WER = (S + D + I) / N`
 ## 👨‍💻 Auteur
 
 **Cédric BOIMIN**  
-Développeur Python & Machine Learning
+Aspirant Data Analyst 
 
 ## 📄 Licence
 
