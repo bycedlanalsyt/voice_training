@@ -220,4 +220,4 @@ N'hésitez pas à ouvrir une issue ou proposer des améliorations.
 
 ---
 
-*Dernière mise à jour : Janvier 2025*
+*Dernière mise à jour : Octobre 2025*
